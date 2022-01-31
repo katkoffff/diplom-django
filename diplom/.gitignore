@@ -1,0 +1,6 @@
+# Default ignored files
+/node_modules/*
+/static/*
+/media/*
+/shelf/*
+/workspace.xml
