@@ -1,6 +1,6 @@
 # Default ignored files
-./diplom/frontend/node_modules/*
-./diplom/static/*
-./diplom/media/*
+/node_modules/*
+/static/*
+/media/*
 /shelf/*
 /workspace.xml

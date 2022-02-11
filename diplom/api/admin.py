@@ -1,6 +1,6 @@
 from django import forms
 from django.contrib import admin
-from .models import Video, Commentary, Subscription, Like, DisLike
+from .models import Video, Commentary, Subscription, Like
 from ckeditor_uploader.widgets import CKEditorUploadingWidget
 
 
@@ -22,4 +22,4 @@ class VideoContentAdmin(admin.ModelAdmin):
 admin.site.register(Commentary)
 admin.site.register(Subscription)
 admin.site.register(Like)
-admin.site.register(DisLike)
+#admin.site.register(DisLike)
