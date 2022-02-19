@@ -1,0 +1,58 @@
+{
+  "messages": [
+    {
+      "messageId": "1",
+      "senderName": "Bob",
+      "messageText": "What are you doing here?",
+      "createdAt": "2021-01-14"
+    },
+    {
+      "messageId": "2",
+      "senderName": "Alice",
+      "messageText": "Go back to work!",
+      "createdAt": "2021-02-15"
+    },
+    {
+      "messageId": "VsqBaQau",
+      "createdAt": "2022-02-18T12:23:24.827Z",
+      "userId": "lP0-ax0o",
+      "messageText": "dctv krmg;l",
+      "senderName": "hjk"
+    },
+    {
+      "messageId": "I9QxChtB",
+      "createdAt": "2022-02-18T13:53:57.816Z",
+      "userId": "lP0-ax0o",
+      "messageText": "fgsdfgd",
+      "senderName": "katkoff"
+    },
+    {
+      "messageId": "aE5_yRQr",
+      "createdAt": "2022-02-19T03:36:27.447Z",
+      "userId": "quyhN3l0",
+      "messageText": "test",
+      "senderName": "nk"
+    },
+    {
+      "messageId": "oP7uP3S9",
+      "createdAt": "2022-02-19T07:38:40.971Z",
+      "userId": "quyhN3l0",
+      "messageText": "i",
+      "senderName": "nk"
+    },
+    {
+      "messageId": "yGgz9YLK",
+      "createdAt": "2022-02-19T16:33:54.145Z",
+      "userId": "1zZAomCA",
+      "messageText": "test",
+      "senderName": "John"
+    },
+    {
+      "messageId": "-gQSuQPu",
+      "createdAt": "2022-02-19T17:03:14.445Z",
+      "userId": "p5yFspWL",
+      "messageText": "test",
+      "senderName": "John"
+    }
+  ]
+}
